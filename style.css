@@ -145,7 +145,7 @@ footer {
   }
 
   main > article {
-    padding: 24px;
+    padding: 15px;
   }
 
   section.hero > .call-to-action {
@@ -165,5 +165,4 @@ footer {
   main > section, main > article {
     margin-bottom: 20px;
   }
-
 }
